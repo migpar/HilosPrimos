@@ -1,0 +1,19 @@
+Hacer un programa que arranque 3 hilos y que cada hilo diga si un numero 
+que le pasemos es primo o no es primo
+
+Pedimos 3 numero a un usuario por pantalla, a partir d eesos numeros arranacamos 3 hilos y 
+que cada hilo nos diga si el numero es primo o no
+
+
+Bonus, mostrar el tiemoo de ejecucion de cada hilo.
+
+
+Las clase date guarrad el tiempo en milisegundos desde el año 1970
+Date date = new Date();
+date.getTime() //Nos devuelve el numero de milisegundos
+
+982451653
+
+8888888888888
+
+982451629
